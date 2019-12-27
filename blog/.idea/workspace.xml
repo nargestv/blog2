@@ -3,114 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ce925bf0-3400-4a81-8a36-9bf2c5711477" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../learn-redis/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/css/animate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/css/bootstrap-rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/css/bootstrap-rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/css/flickity.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/css/onepage-scroll.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/css/theme-rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/Lalezar/Lalezar-Regular.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/Lalezar/Lalezar-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/Lalezar/Lalezar-Regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/Lalezar/Lalezar-Regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/Lalezar/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/Lalezar/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/HELP-US-OUT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/css/mixins.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/css/variables.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/font-awesome.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansBold.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansBold.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansBold.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansLight.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansLight.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansUltraLight.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansUltraLight.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansUltraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansUltraLight.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansUltraLight.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansWeb.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansWeb.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/fonts/iran-sans/IRANSansWeb.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/boat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/boat2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/btn-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/btn-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/butt1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/clouds.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/flag.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/g-butt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/g-butt2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/inner-4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/layers-19.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/leaf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/leaf2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/logo-last.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/logo-red.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/m.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/mm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/moon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/moon2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/qq.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/result-btn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/section1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/section2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/section3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/section4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/section5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/section7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/sun.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/img/welcome.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/js/flickity.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/js/jquery-3.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/js/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/js/smooth-scroll.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/js/zepto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/js/zepto.onepagescroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../meygoosh/js/zepto.onepagescroll.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,22 +169,70 @@
       <option name="presentableId" value="Default" />
       <updated>1577425850773</updated>
       <workItem from="1577425853520" duration="632000" />
-      <workItem from="1577426818993" duration="5922000" />
+      <workItem from="1577426818993" duration="6166000" />
     </task>
+    <task id="LOCAL-00001" summary="add new blog">
+      <created>1577437718835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577437718835</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/var/www/html/blog" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add new blog" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new blog" />
   </component>
   <component name="WindowStateProjectService">
     <state x="248" y="27" width="860" height="680" key="CommitChangelistDialog2" timestamp="1577437714087">
       <screen x="0" y="27" width="1366" height="680" />
     </state>
     <state x="248" y="27" width="860" height="680" key="CommitChangelistDialog2/0.27.1366.680@0.27.1366.680" timestamp="1577437714087" />
-    <state x="278" y="103" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1577437522913">
+    <state x="278" y="103" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1577437757831">
       <screen x="0" y="27" width="1366" height="680" />
     </state>
-    <state x="278" y="103" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.680@0.27.1366.680" timestamp="1577437522913" />
+    <state x="278" y="103" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.680@0.27.1366.680" timestamp="1577437757831" />
     <state x="346" y="28" width="672" height="678" key="search.everywhere.popup" timestamp="1577436713951">
       <screen x="0" y="27" width="1366" height="680" />
     </state>
